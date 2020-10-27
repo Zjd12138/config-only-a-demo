@@ -4,4 +4,4 @@ data:
     username: eureka-client-user
     password: 1291029102
 config:
-    info: "dev---confog&&" 
+    info: "dev---config" 
